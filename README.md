@@ -12,5 +12,4 @@
 
 ## Ссылки проекта
 
-<p fr-original-style="" style="margin-top: 0px; margin-bottom: 12px; color: var(--ui-sb-color-text-main); box-sizing: border-box; font-size: 16px; line-height: 22px;">Ссылка для просмотра <a fr-original-style="" href="https://gusevanadezhda.github.io./Courses-3D-model
-/" rel="noopener noreferrer" style="user-select: auto; text-decoration: none; box-sizing: border-box;" target="_blank"> сайта "Курсы 3D моделирование"</a></p>
+<p fr-original-style="" style="margin-top: 0px; margin-bottom: 12px; color: var(--ui-sb-color-text-main); box-sizing: border-box; font-size: 16px; line-height: 22px;">Ссылка для просмотра <a fr-original-style="" href="https://gusevanadezhda.github.io/Courses-3D-model/" rel="noopener noreferrer" style="user-select: auto; text-decoration: none; box-sizing: border-box;" target="_blank"> сайта "Курсы 3D моделирование"</a></p>
