@@ -173,7 +173,7 @@ body {
 
 
 .hero__picture {
-  background-image: url(img/hero.svg);
+  background-image: url(/img/hero.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -210,7 +210,7 @@ body {
 
 .about__content::before {
   content: "";
-  background-image: url(img/abouttext.png);
+  background-image: url(/img/abouttext.png);
   margin-right: 30px;
   flex-shrink: 0;
   width: 160px;
